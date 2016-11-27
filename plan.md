@@ -9,8 +9,15 @@ Post links:
 
 1. Me, you
 1. Examples
-	- My Grandfather's House
-	- [Road Trip](https://vimeo.com/193215771)
+	- My Grandfather's House (Procesing, openFrameworks)
+	- [Road Trip](https://vimeo.com/193215771) (Procesing, openFrameworks)
+	- Aaron Koblin: [Radiohead, *House of Cards*](https://github.com/dataarts/radiohead) (Processing)
+	- Cheryl Sourkes, [*Everybody's Autobiography*](http://cherylsourkes.com/everybodys-autobiography/) (Processing, JavaScript)
+	- Gerda Cammaer, [*Maputo Praia*](https://vimeo.com/76016374) (Processing, Pure Data)
+	- Nils Völker, [*One Hundred and Eight*](http://nilsvoelker.com/content/onehundredandeight/index.html) (Processing, Arduino (presumably))
+	- Ole Kristensen, [*Body Navigation*](https://vimeo.com/1362832) (Processing, Infrared Camera)
+	- Klaus Obermaier and Ars Electronica Futurelab, [*Le Sacre du Printemps *](http://www.exile.at/sacre/) (?)
+	- Golan Levin, Zachary Lieberman, Jaap Blonk, and Joan La Barbara, [*Messa di voce*](http://www.youtube.com/watch?v=GfoqiyB1ndE) (Processing(?))
 1. Intro to the tools
 	- Arduino
 	- Processing
@@ -22,6 +29,8 @@ Post links:
 			- foreground & background
 			- colours
 			- getting help
+				- Documentation
+				- Example sketches
 			- moving stuff around
 			- interacting using the mouse: mouseX, mouseY, pmouseX, pmouseY
 			- doing some basic math
@@ -47,3 +56,6 @@ Post links:
 		- How to talk to the world physically i.e. not through a screen or keyboard
 			- light
 			- motion
+	- **Putting it together**
+		- Firmata
+	- In the process, we'll build some basic reactive pieces. True *interaction* is beyond the scope of this workshop, but we're going to come out with the tools to start down that road.
