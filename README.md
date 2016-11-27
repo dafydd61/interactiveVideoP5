@@ -9,6 +9,14 @@ You can find more examples at [https://github.com/dafydd61/intro-to-processing](
 
 Welcome to Interactive Video! We're going to spend the day digging into two of the most popular tools used by artists and designers to create reactive and interactive work: Arduino and Processing.
 
+## Resources
+
+- [processing.org](https://processing.org/)
+- [arduino.cc](https://www.arduino.cc/)
+- [Hello, Arduino!](https://drive.google.com/open?id=1x9Gt1fvKq4tdVg1T3q11XOVUHiLFq2RlfTxytF7smf0)
+- [Hello Processing](http://hello.processing.org/)
+- [openProcessing](https://www.openprocessing.org/)
+
 ## Examples
 - Aaron Koblin: [Radiohead, *House of Cards*](https://github.com/dataarts/radiohead) (Processing)
 - Ole Kristensen, [*Body Navigation*](https://vimeo.com/1362832) (Processing, Infrared Camera)
@@ -27,6 +35,5 @@ Welcome to Interactive Video! We're going to spend the day digging into two of t
 ### Arduino
 - How to get information from the physical world
 - How to talk to the world physically i.e. not through a screen or keyboard
-- [Hello, Arduino!](https://drive.google.com/open?id=1x9Gt1fvKq4tdVg1T3q11XOVUHiLFq2RlfTxytF7smf0)
 
 In the process, we'll build some basic reactive pieces. True *interaction* is beyond the scope of this workshop, but we're going to come out with the tools to start down that road.
