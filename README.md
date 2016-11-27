@@ -16,10 +16,12 @@ Welcome to Interactive Video! We're going to spend the day digging into two of t
 - [Hello, Arduino!](https://drive.google.com/open?id=1x9Gt1fvKq4tdVg1T3q11XOVUHiLFq2RlfTxytF7smf0)
 - [Hello Processing](http://hello.processing.org/)
 - [openProcessing](https://www.openprocessing.org/)
-- Dan Shiffman, [Learning Processing]
-- Dan Shiffman, [The Nature of Code]
-- Massimo Banzi, [Getting Started With Arduino]
-- [The Arduino Cookbook]
+- Dan Shiffman, [Learning Processing](http://learningprocessing.com/)
+- Dan Shiffman, [The Nature of Code](http://natureofcode.com/)
+- Massimo Banzi, [Getting Started With Arduino](https://www.chapters.indigo.ca/en-ca/books/product/9781449363338-item.html?mkwid=sNWAcKYYr_dc&pcrid=44154474422&pkw=&pmt=&s_campaign=goo-Shopping_Books&gclid=Cj0KEQiAperBBRDfuMf72sr56fIBEiQAPFXszUm-tTD2O3kg-w15jG4vwm6MArP6DTfe6FJEV1WozoEaAiYi8P8HAQ)
+- [The Arduino Cookbook](https://www.amazon.ca/Arduino-Cookbook-Recipes-Enhance-Projects/dp/1449313876)
+- [Adafruit](https://www.adafruit.com/)
+- [Sparkfun](https://www.sparkfun.com/)
 
 ## Examples
 - Aaron Koblin: [Radiohead, *House of Cards*](https://github.com/dataarts/radiohead) (Processing)
@@ -27,6 +29,8 @@ Welcome to Interactive Video! We're going to spend the day digging into two of t
 - Klaus Obermaier and Ars Electronica Futurelab, [*Le Sacre du Printemps *](http://www.exile.at/sacre/) (?)
 - Nils Völker, [*One Hundred and Eight*](http://nilsvoelker.com/content/onehundredandeight/index.html) (Processing, Arduino (presumably))
 - Golan Levin, Zachary Lieberman, Jaap Blonk, and Joan La Barbara, [*Messa di voce*](http://www.youtube.com/watch?v=GfoqiyB1ndE) (Processing(?))
+- Steele & Tomczak, [Watertable](http://www.steeleandtomczak.com/project.html?project=watertable)
+- Annie MacDonell, Alex Geddie and Nicholas Stedman, [Je Te Veux](https://www.youtube.com/watch?v=Z1o6I8OFec8)
 
 ## What we're going to learn
 
