@@ -34,6 +34,7 @@ Post links:
 			- moving stuff around
 				- mouseX, mouseY
 				- where does background go?
+				- map()
 			- frameCount, width, height
 			- doing some basic math
 				- variables
@@ -58,11 +59,13 @@ Post links:
 			- manipulating pixels one-by-one
 				- richterSmear
 			- alpha masking
+				- Capture
 				- maskImage
 		2. Videos
 			- Playing videos
 			- Controlling video playback
 			- reactive playback
+			- maskVideo
 	- **Arduino**
 		- How to get information from the physical world
 			- Photoresistor
