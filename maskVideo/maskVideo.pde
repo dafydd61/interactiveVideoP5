@@ -78,5 +78,5 @@ void keyPressed() {
   currentFrame = video.get(0, 0, width, 360);
   currentFrame.filter(THRESHOLD);
   currentFrame.loadPixels();
-  arraycopy(currentFrame.pixels, backgroundPixels);
+  arrayCopy(currentFrame.pixels, backgroundPixels);
 }

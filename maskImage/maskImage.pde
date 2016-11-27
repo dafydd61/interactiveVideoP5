@@ -65,5 +65,5 @@ void draw() {
 void keyPressed() {
   video.filter(THRESHOLD);
   video.loadPixels();
-  arraycopy(video.pixels, backgroundPixels);
+  arrayCopy(video.pixels, backgroundPixels);
 }
