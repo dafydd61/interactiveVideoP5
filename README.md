@@ -16,6 +16,10 @@ Welcome to Interactive Video! We're going to spend the day digging into two of t
 - [Hello, Arduino!](https://drive.google.com/open?id=1x9Gt1fvKq4tdVg1T3q11XOVUHiLFq2RlfTxytF7smf0)
 - [Hello Processing](http://hello.processing.org/)
 - [openProcessing](https://www.openprocessing.org/)
+- Dan Shiffman, [Learning Processing]
+- Dan Shiffman, [The Nature of Code]
+- Massimo Banzi, [Getting Started With Arduino]
+- [The Arduino Cookbook]
 
 ## Examples
 - Aaron Koblin: [Radiohead, *House of Cards*](https://github.com/dataarts/radiohead) (Processing)
