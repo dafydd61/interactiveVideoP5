@@ -24,25 +24,41 @@ Post links:
 1. What we're going to learn
 	- **Procesing**
 		1. Basics
-			- the window
-			- drawing shapes
-			- foreground & background
+			- the window - grid
+			- drawing shapes - rect, line, ellipse
 			- colours
+				- strokeWidth, stroke, fill, background
 			- getting help
 				- Documentation
 				- Example sketches
 			- moving stuff around
-			- interacting using the mouse: mouseX, mouseY, pmouseX, pmouseY
+				- mouseX, mouseY
+				- where does background go?
+			- frameCount, width, height
 			- doing some basic math
+				- variables
+				- Composite shape
 		1. Pictures
 			- loading and displaying photos
+				- it's a variable
+				- h & w are properties of pictures!
 			- playing with pictures: colour, alpha, filters
+				- tint
+				- filter
+				- mouse -> tint/filter
+				- picture switcher - mouseX, mouseReleased, keyReleased
 			- copying part or all of a picture (get(), copy())
-			- moving pictures around with the mouse
+		1. Detour: arrays, loops
+			- arrays from intro
 		1. Pixels
 			- looking at pictures as a list of numbers
+				- colourSwap
+					- loadPixels()
+					- r, g, b
 			- manipulating pixels one-by-one
+				- richterSmear
 			- alpha masking
+				- maskImage
 		2. Videos
 			- Playing videos
 			- Controlling video playback
