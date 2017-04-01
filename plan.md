@@ -12,7 +12,6 @@ Post links:
 	- My Grandfather's House (Procesing, openFrameworks)
 	- [Road Trip](https://vimeo.com/193215771) (Procesing, openFrameworks)
 	- Aaron Koblin: [Radiohead, *House of Cards*](https://github.com/dataarts/radiohead) (Processing)
-	- Cheryl Sourkes, [*Everybody's Autobiography*](http://cherylsourkes.com/everybodys-autobiography/) (Processing, JavaScript)
 	- Gerda Cammaer, [*Maputo Praia*](https://vimeo.com/76016374) (Processing, Pure Data)
 	- Nils Völker, [*One Hundred and Eight*](http://nilsvoelker.com/content/onehundredandeight/index.html) (Processing, Arduino (presumably))
 	- Ole Kristensen, [*Body Navigation*](https://vimeo.com/1362832) (Processing, Infrared Camera)
