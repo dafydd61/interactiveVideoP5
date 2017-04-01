@@ -14,7 +14,6 @@ You need: an Arduino
    Simply replace "arduinoPort" on line 55 with the correct port number.
 4. You should see a window with a single square in it. When you click the square, the light beside pin 13 on the Arduino should light up.
 5. Works? Great. Done!
-6. Doesn't work? Call me: 416-712-2791.
 
 */
 
