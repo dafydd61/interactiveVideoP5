@@ -23,5 +23,5 @@ void draw() {
     mov.read();
   }  
 
-  image(mov, 0, 0);
+  image(mov, 0, 0, 640, 360);
 }
