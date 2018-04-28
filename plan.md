@@ -9,8 +9,6 @@ Post links:
 
 1. Me, you
 1. Examples
-	- My Grandfather's House (Procesing, openFrameworks)
-	- [Road Trip](https://vimeo.com/193215771) (Procesing, openFrameworks)
 	- Aaron Koblin: [Radiohead, *House of Cards*](https://github.com/dataarts/radiohead) (Processing)
 	- Gerda Cammaer, [*Maputo Praia*](https://vimeo.com/76016374) (Processing, Pure Data)
 	- Nils Völker, [*One Hundred and Eight*](http://nilsvoelker.com/content/onehundredandeight/index.html) (Processing, Arduino (presumably))
@@ -21,6 +19,7 @@ Post links:
 	- David Rokeby, [*Taken*](https://vimeo.com/17139664) (Max/MSP)
 	- David Rokeby, [*San Marco Flow*](https://vimeo.com/15070143) (Max/MSP)
 	- David Rokeby, [*Very Nervous System*](https://vimeo.com/8120954) (Max/MSP)
+	- [Road Trip](https://vimeo.com/193215771) (Procesing, openFrameworks)
 1. Intro to the tools
 	- Arduino
 	- Processing
