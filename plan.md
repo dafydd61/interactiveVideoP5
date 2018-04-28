@@ -17,6 +17,8 @@ Post links:
 	- Ole Kristensen, [*Body Navigation*](https://vimeo.com/1362832) (Processing, Infrared Camera)
 	- Klaus Obermaier and Ars Electronica Futurelab, [*Le Sacre du Printemps *](http://www.exile.at/sacre/) (?)
 	- Golan Levin, Zachary Lieberman, Jaap Blonk, and Joan La Barbara, [*Messa di voce*](http://www.youtube.com/watch?v=GfoqiyB1ndE) (Processing(?))
+	- David Rokeby, [*Seen*](https://vimeo.com/6012986) (Max/MSP)
+	- David Rokeby, [*Taken*](https://vimeo.com/17139664) (Max/MSP)
 1. Intro to the tools
 	- Arduino
 	- Processing
@@ -24,6 +26,19 @@ Post links:
 ## What we're going to learn
 
 Throughout the workshop, we'll build some basic reactive pieces. True *interaction* is beyond the scope of this workshop, but we're going to come out with the tools to start down that road.
+
+### Get our fee wet with Arduino
+
+1. Basics
+	- The parts
+	- How it works
+	- How sketches work
+	- Writing sketches
+	- Editing Blink
+2. Basics of Breadboarding
+	- Moving blibk to a breadboard
+	- Doing something more interesting
+	- More later...
 
 ### Processing
 
@@ -43,12 +58,14 @@ Throughout the workshop, we'll build some basic reactive pieces. True *interacti
 	- doing some basic math
 		- variables
 		- Composite shape
+		- transforms?
 1. Pictures
 	- loading and displaying photos
 		- it's a variable
 		- h & w are properties of pictures!
 	- playing with pictures: colour, alpha, filters
 		- tint
+		- Pop art
 		- filter
 		- mouse -> tint/filter
 		- picture switcher - mouseX, mouseReleased, keyReleased
