@@ -4,11 +4,16 @@ import cc.arduino.*;
 
 Arduino arduino;
 
+PImage pic1;
+PImage pic2;
+
 color off = color(4, 79, 111);
 color on = color(84, 145, 158);
 
 void setup() {
-  size(470, 280);
+  size(600, 600);
+  pic1 = loadImage("p-croswell.jpg");
+  pic2 = loadImage("p-dino.jpg");
 
   println(Arduino.list());
 
@@ -22,5 +27,22 @@ void draw() {
 
   // Draw a circle whose size corresponds to the value of an analog input.
   noFill();
-  ellipse(50, 50, arduino.analogRead(1) / 16, arduino.analogRead(0) / 16);
+  int reading = arduino.analogRead(1);
+  float mappedReading = map(reading, 80, 590, 0, 255);
+  float constrainedReading = constrain(mappedReading, 0, 255);
+  println(reading);
+  
+  tint(255);
+  image(pic1, 0, 0, 300, 300);
+  tint(255, 0, 0);
+  image(pic2, 300, 0, 300, 300);
+  tint(0, 0, 255);
+  image(pic2, 0, 300, 300, 300);
+  tint(255, 255, 0);
+  image(pic1, 300, 300, 300, 300);
+  
+  tint(255, 0, 0, constrainedReading);
+  image(pic1, 0, 0, 600, 600);
+
+  
 }
