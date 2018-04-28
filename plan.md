@@ -19,6 +19,8 @@ Post links:
 	- Golan Levin, Zachary Lieberman, Jaap Blonk, and Joan La Barbara, [*Messa di voce*](http://www.youtube.com/watch?v=GfoqiyB1ndE) (Processing(?))
 	- David Rokeby, [*Seen*](https://vimeo.com/6012986) (Max/MSP)
 	- David Rokeby, [*Taken*](https://vimeo.com/17139664) (Max/MSP)
+	- David Rokeby, [*San Marco Flow*](https://vimeo.com/15070143) (Max/MSP)
+	- David Rokeby, [*Very Nervous System*](https://vimeo.com/8120954) (Max/MSP)
 1. Intro to the tools
 	- Arduino
 	- Processing
@@ -27,7 +29,7 @@ Post links:
 
 Throughout the workshop, we'll build some basic reactive pieces. True *interaction* is beyond the scope of this workshop, but we're going to come out with the tools to start down that road.
 
-### Get our fee wet with Arduino
+### Get our feet wet with Arduino
 
 1. Basics
 	- The parts
